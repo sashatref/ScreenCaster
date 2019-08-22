@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>www_scr/index.html</file>
+    </qresource>
+</RCC>
